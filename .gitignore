@@ -1,3 +1,13 @@
+HEAD
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.spyproject/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +228,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+6bf0e3f3a270833054d15309f8623f780b6348e8
